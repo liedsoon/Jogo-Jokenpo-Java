@@ -3,6 +3,8 @@
 
 Este projeto implementa o clássico jogo **JoKenPô** (ou **Pedra, Papel e Tesoura**) utilizando **Java** com **Swing** para a interface gráfica. O jogador pode escolher entre pedra, papel ou tesoura, e o computador escolhe aleatoriamente. O resultado da partida é mostrado na tela, assim como o placar geral.
 
+---
+
 ## ✍️ Autor  
 Desenvolvido por **José Liedson** – Projeto da disciplina de **Programação Orientada a Objetos P2**, 2023.
 
