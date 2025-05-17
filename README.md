@@ -55,9 +55,11 @@ Certifique-se de incluir as seguintes imagens:
 - Tesoura ganha de papel
 - Papel ganha de pedra
 - Se jogador e computador escolherem a mesma jogada, é empate.
+  
+---
 
-- div align="center"
-img src="https://github.com/user-attachments/assets/43162a0c-815d-4883-8ef4-eb7677aaa646" width="0px" /
-/div
+<div align="center">
+<img src="https://github.com/user-attachments/assets/43162a0c-815d-4883-8ef4-eb7677aaa646" width="1000px" />
+</div>
 
 
