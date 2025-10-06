@@ -5,8 +5,16 @@ Este projeto implementa o clássico jogo **JoKenPô** (ou **Pedra, Papel e Tesou
 
 ---
 
-## ✍️ Autor  
-Desenvolvido por **José Liedson** – Projeto da disciplina de **Programação Orientada a Objetos P2**, 2023.
+## 🧠 Lógica do Jogo
+
+- Pedra ganha de tesoura
+- Tesoura ganha de papel
+- Papel ganha de pedra
+- Se jogador e computador escolherem a mesma jogada, é empate.
+
+<div align="center">
+<img src="https://github.com/user-attachments/assets/43162a0c-815d-4883-8ef4-eb7677aaa646" width="1000px" />
+</div>
 
 ---
 
@@ -56,17 +64,8 @@ Certifique-se de incluir as seguintes imagens:
 
 ---
 
-## 🧠 Lógica do Jogo
+## ✍️ Autor  
+Desenvolvido por **José Liedson** – Projeto da disciplina de **Programação Orientada a Objetos P2**, 2023.
 
-- Pedra ganha de tesoura
-- Tesoura ganha de papel
-- Papel ganha de pedra
-- Se jogador e computador escolherem a mesma jogada, é empate.
-  
----
-
-<div align="center">
-<img src="https://github.com/user-attachments/assets/43162a0c-815d-4883-8ef4-eb7677aaa646" width="1000px" />
-</div>
 
 
